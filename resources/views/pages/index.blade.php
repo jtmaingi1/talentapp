@@ -1,19 +1,15 @@
 @extends('layouts.app')
 
+@include('inc.jumbotron')
+
 @section('content')
-<div class="jumbotron jumbotron-fluid text-white text-center">
-  <div class="container">
-        <h1 class="display-2"> I Got TALENT </h1>
-        <p class="lead"> We Identify, Appreciate and Nurture Talents of the young generation across the 47 Counties of Kenya. </p> 
-       </div>
-    </div>
    <div class="container">
       
            <h1 class="text-center">Objectives </h1>
 
        <!-- Cards -->
        <div class="row">
-            <div class="col-md-12 col-lg-4">
+            <div class="col-md-12 col-lg-4 py-3">
                 <div class="card">
                      <img class="card-img-top img-fluid" src="img/guitar.jpg" alt="Card image Musician">
                     <div class="card-body">
@@ -22,7 +18,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-12 col-lg-4">
+            <div class="col-md-12 col-lg-4 py-3">
                     <div class="card">
                          <img class="card-img-top img-fluid" src="img/musician.jpg" alt="Card image Musician">
                         <div class="card-body">
@@ -31,7 +27,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-12 col-lg-4">
+                <div class="col-md-12 col-lg-4 py-3">
                         <div class="card">
                              <img class="card-img-top img-fluid" src="img/skydiving.jpg" alt="Card image Musician">
                             <div class="card-body">
