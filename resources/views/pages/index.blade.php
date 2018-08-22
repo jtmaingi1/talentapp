@@ -22,7 +22,9 @@
             </div>
             <div class="col-md-12 col-lg-4 py-3">
                     <div class="card">
-                         <img class="card-img-top img-fluid" src="img/musician.jpg" alt="Card image Musician">
+                      <div class="zoom">
+                          <img class="card-img-top img-fluid" src="img/musician.jpg" alt="Card image Musician">
+                      </div>
                         <div class="card-body">
                             <h3 class="card-title">Appreciate</h3>
                          <p class="card-text">To encourage children to pursue their interests by appreciating what they do, how they do it and why they do it.</p>
@@ -31,7 +33,9 @@
                 </div>
                 <div class="col-md-12 col-lg-4 py-3">
                         <div class="card">
-                             <img class="card-img-top img-fluid" src="img/skydiving.jpg" alt="Card image Musician">
+                            <div class="zoom">
+                                <img class="card-img-top img-fluid" src="img/skydiving.jpg" alt="Card image Musician">
+                              </div>
                             <div class="card-body">
                                 <h3 class="card-title">Nurture</h3>
                              <p class="card-text">To encourage the already known potential and capabilities so as to teach them to be more effective and maximize on their potential.</p>
@@ -40,6 +44,16 @@
                     </div>
        </div>
         <!-- End of Cards -->
+       <!-- Scripture banner -->
+       <div class="col-sm-12">
+          <div class="jumbotron text-white text-center">
+              <div class="container">
+                  <blockquote class="lead">For this reason I remind you to fan into flame the gift of God, which is in you...</blockquote>
+                  <footer class="blockquote-footer text-white">2 Timothy 1:6</footer>
+              </div>
+          </div>
+       </div>
+      <!-- End Scripture banner -->
         <h1 class="text-center">Talent Showcase</h1>
         <!-- Gallery of Activities with Carousel -->
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
