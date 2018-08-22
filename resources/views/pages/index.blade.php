@@ -11,7 +11,9 @@
        <div class="row">
             <div class="col-md-12 col-lg-4 py-3">
                 <div class="card">
-                     <img class="card-img-top img-fluid" src="img/guitar.jpg" alt="Card image Musician">
+                  <div class="zoom">
+                      <img class="card-img-top img-fluid" src="img/guitar.jpg" alt="Card image Musician">
+                  </div>
                     <div class="card-body">
                         <h3 class="card-title">Identify</h3>
                      <p class="card-text">To reach out to as many as possible children around the nation and identify the talent within them.</p>
@@ -70,7 +72,7 @@
         <!-- Talk to us Contact Form -->
         <h1 class="text-center">Leave us a comment? </h1>
         <br/>
-        <form>
+        <form id="contactus">
                 <div class="form-row">
                   <div class="col-md-4 mb-3">
                     <label for="validationDefault01">First name</label>
