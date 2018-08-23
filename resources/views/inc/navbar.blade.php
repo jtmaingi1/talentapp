@@ -13,6 +13,7 @@
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active"><a class="nav-link" href="/">Home</a></li>
                 <li><a class="nav-link" href="/about">About</a></li>
+                <li><a class="nav-link" href="/posts">Showcase</a></li>
                 <li><a class="nav-link" href="{{ url('/') }}#contactus">Contact</a></li>
             </ul>
            

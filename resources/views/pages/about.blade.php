@@ -13,7 +13,7 @@
   <div class="container">
     <h1>Founder</h1>
     <img src="img/profileimage2.png" class="rounded float-left px-3" alt="Christine" height="236">
-    <p class="lead">Talent is to be nurtured!! Unused potential goes to waste, therefore, this platform is provided to help nurture young people's God given gifts and talents</p>
+    <p class="lead">I Got Talent is about nurturing Talent and rewarding the efforts of our young and talented period!! Unused potential goes to waste, therefore, this platform is provided to help nurture young people's God given gifts and talents</p>
     <blockquote class="blockquote">
       <p>Your Talent will take you to a place where your certificates could not.</p>
       <footer class="blockquote-footer">Christine Muragu</footer>
