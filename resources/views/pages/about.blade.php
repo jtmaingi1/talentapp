@@ -11,15 +11,15 @@
 </div>
   <!-- section -->
   <div class="container">
-   
-    <div class="col-lg-3"> <h1>Founder</h1>
-      <img src="img/profileimage2.png" class="img-responsive rounded float-left px-3" alt="Christine" height="236"></div>
-      <div class="col-sm-12"> <p class="lead">I Got Talent is about nurturing Talent and rewarding the efforts of our young and talented period!! Unused potential goes to waste, therefore, this platform is provided to help nurture young people's God given gifts and talents</p>
-    <blockquote class="blockquote">
-      <p>Your Talent will take you to a place where your certificates could not.</p>
-      <footer class="blockquote-footer">Christine Muragu</footer>
-    </blockquote>
+      <div class="col-lg-3"> <h1>Founder</h1>
+        <img src="img/profileimage2.png" class="img-responsive rounded float-left px-3" alt="Christine" height="236">
       </div>
+        <div class="col-sm-12"> <p class="lead">I Got Talent is about nurturing Talent and rewarding the efforts of our young and talented period!! Unused potential goes to waste, therefore, this platform is provided to help nurture young people's God given gifts and talents</p>
+          <blockquote class="blockquote">
+            <p>Your Talent will take you to a place where your certificates could not.</p>
+            <footer class="blockquote-footer">Christine Muragu</footer>
+          </blockquote>
+        </div>
   </div>
   <div class="container">
       <hr>
@@ -28,9 +28,4 @@
         By coming together as donors, well-wishers, volunteers and in any way that one feels can be a blessing to our very own children, we identify the talent in them and build them through the process. This will lead to transformation of our future generation. By cultivating that inborn talent, we encourage diversity and inclusion, we harbor more talent,  we boost the self-esteem of our children and most importantly their talent is never lost.
          </p>
   </div>
-    
-  
-
-
-
 @endsection
