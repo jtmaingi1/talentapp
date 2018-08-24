@@ -1,5 +1,5 @@
 
-  <nav class="navbar navbar-expand-md navbar-talent navbar-inverse fixed-top">
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark navbar-inverse fixed-top">
     <div class="container">
         <a class="navbar-brand" href="{{ url('/') }}">
             {{ config('app.name', 'I Got Talent') }}
