@@ -14,7 +14,7 @@
                   <div class="zoom">
                       <img class="card-img-top img-fluid" src="img/guitar.jpg" alt="Card image Musician">
                   </div>
-                    <div class="card-body">
+                    <div class="card-body h-20">
                         <h3 class="card-title">Identify</h3>
                      <p class="card-text">To reach out to as many as possible children around the nation and identify the talent within them.</p>
                     </div>
@@ -25,7 +25,7 @@
                       <div class="zoom">
                           <img class="card-img-top img-fluid" src="img/musician.jpg" alt="Card image Musician">
                       </div>
-                        <div class="card-body">
+                        <div class="card-body h-20">
                             <h3 class="card-title">Appreciate</h3>
                          <p class="card-text">To encourage children to pursue their interests by appreciating what they do, how they do it and why they do it.</p>
                         </div>
@@ -36,7 +36,7 @@
                             <div class="zoom">
                                 <img class="card-img-top img-fluid" src="img/skydiving.jpg" alt="Card image Musician">
                               </div>
-                            <div class="card-body">
+                            <div class="card-body h-20">
                                 <h3 class="card-title">Nurture</h3>
                              <p class="card-text">To encourage the already known potential and capabilities so as to teach them to be more effective and maximize on their potential.</p>
                             </div>
