@@ -107,15 +107,25 @@
                         <textarea class="form-control" rows="5" placeholder="Your message" id="comment"></textarea>
                       </div>
                 <div class="form-group">
-                  <div class="form-check">
-                    <input class="form-check-input" type="checkbox" value="" id="invalidCheck2">
-                    <label class="form-check-label" for="invalidCheck2">
-                      Check this if you would like us to contact you
+                  <div class="form-row">
+                    <label class="col-md-4 mb-3" for="invalidCheck2">
+                      <input class="form-control" type="checkbox" value="" id="invalidCheck2">
+                      Check this if you would like us to contact you via Your CellPhone
                     </label>
-                    <input type="tel" placeholder="Cellphone" value="" id="Tel">
+                    <div class="col-md-4 mb-3">
+                    <input type="tel" class="form-control" placeholder="Cellphone" value="" id="Tel">
+                    </div>
                   </div>
                 </div>
                 <button class="btn btn-primary btn-outline-warning" type="submit">Submit form</button>
               </form>
+   </div>
+   <div class="float-lg-right">
+      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="FHVRLXJ2SYKQG">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
    </div>
 @endsection

@@ -26,10 +26,15 @@
                    <div class="container py-5">
                             
                <main class="py-4">
+                   @include('inc.messages')
                    @yield('content')
                </main>
                </div>
            </div>
-   
+    <footer class="footer bg-dark">
+        <div class="container">
+            <span class="text-muted"><p id="footer-info">Designed by <a href="https://www.jtmaingi.com" title="Jefferson Maingi">jtmaingi</a> | Powered by <a href="https://gisort.co.ke">Gisort Online</a></p>.</span>
+        </div>
+    </footer>
 </body>
 </html>
